@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnkomarnicki/express-vue3-tailwind-map.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnkomarnicki/express-vue3-tailwind-map/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/johnkomarnicki/express-vue3-tailwind-map#readme",
+  "homepage": "",
   "dependencies": {
     "axios": "^0.24.0",
     "cors": "^2.8.5",
