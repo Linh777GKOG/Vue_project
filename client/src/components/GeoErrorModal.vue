@@ -8,7 +8,7 @@
       <h1 class="text-lg mb-1">Error: {{ this.geoErrorMsg }}</h1>
       <p class="text-sm mb-4">
         To take advantage of this applications features, please ensure location
-        services are enabled
+        services are enabled.
       </p>
       <button
         @click="$emit('closeGeoError')"
